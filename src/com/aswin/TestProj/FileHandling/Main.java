@@ -1,4 +1,4 @@
-package com.aswin.TestProj.CorePlatform;
+package com.aswin.TestProj.FileHandling;
 
 import java.io.*;
 import java.net.URI;

@@ -1,3 +1,2 @@
-abc
-def
-ghi
+Format into file: 10, 10.00, 10
+this writes into the opened file
